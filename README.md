@@ -24,3 +24,6 @@ Now you install a  Tkinter
 Tkinter can be installed using pip. The following command is run in the command prompt to install Tkinter.
 PS C:\Users\ragul> pip install tk
 
+Now copy this source code: https://github.com/raguprasaths/Hotel-Billing-Tkinter/blob/main/Hotel-Billing-tkinter.py
+
+Thank you..
